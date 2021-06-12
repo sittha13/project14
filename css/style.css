@@ -3,6 +3,7 @@ body{
     color: white;
     text-align: center;
     padding: 100px;
+    background: url(https://pixabay.com/images/id-6310250/);
 }
 h1{
     display: none;
